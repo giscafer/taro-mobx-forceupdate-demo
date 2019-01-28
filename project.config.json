@@ -1,0 +1,16 @@
+{
+  "miniprogramRoot": "dist/",
+  "projectname": "taro-mobx-forceupdate-demo",
+  "description": "demo",
+  "appid": "wx55263c6f3bed59a0",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "autoAudits": false
+  },
+  "compileType": "miniprogram",
+  "condition": {}
+}
